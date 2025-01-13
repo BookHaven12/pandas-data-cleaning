@@ -22,7 +22,7 @@ Charter schools spending less than $585 per student had the highest scores and p
 
 ## Conclusion
 The analysis of the data clearly shows that **school size** and **school type** have the biggest impact on a student's overall success.  
-This conclusion is further supported in the fact that the**Charter schools with less than 2,000 students rank as the top 8 schools in the top 10 list.**
+This conclusion is further supported in the fact that the **Charter schools with less than 2,000 students rank as the top 8 schools**.
 Public schools have more funding availble per student, but their larger sizes negatively impact students' overall success rate. 
 
 
