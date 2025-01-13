@@ -1,9 +1,10 @@
 # School Data Analysis
 
-##Overview
+## Overview
+
 This project analyzes school data to explore metrics across two school types: **Charter** and **Public (District)** schools.  This analysis aims to identify factors that contribute to higher passing rates, and ultimately student success. 
 
-##Key Findings
+## Key Findings
 
 1.  **Performance by School Type:**
 **Charter schools** had a significantly higher overall passing rate **(90%)** compared to **Public schools (53%)**. 
@@ -19,12 +20,12 @@ Charter schools were able to achieve better scores in both reading and math whil
 Public schools had the lowest scores across the board despite spending the most on their students ($630-$680).
 Charter schools spending less than $585 per student had the highest scores and passing rates in all 3 areas!
 
-##Conclusion
+## Conclusion
 The analysis of the data clearly shows that **school size** and **school type** have the biggest impact on a student's overall success.  
 This conclusion is further supported in the fact that the**Charter schools with less than 2,000 students rank as the top 8 schools in the top 10 list.**
 Public schools have more funding availble per student, but their larger sizes negatively impact students' overall success rate. 
 
 
-##Resources
+## Resources
 Xpert Learning Assistant
 I worked with Morgan P in a study session- she found my error in calculating total school count and budget
