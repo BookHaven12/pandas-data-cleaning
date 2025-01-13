@@ -15,8 +15,8 @@ The area that seemed to be affected the most by school size was the % passing ma
 Reading seemed to be similar in the medium and smaller schools, and only slighly lower in the larger schools.
 
 3.  **Spending Per Student:**
-Charter school were able to achieve better scores in both reading and math while spending less per student (<$630).
-Public had the lowest scores across the board despite spending the most on their students ($630-$680).
+Charter schools were able to achieve better scores in both reading and math while spending less per student (<$630).
+Public schools had the lowest scores across the board despite spending the most on their students ($630-$680).
 Charter schools spending less than $585 per student had the highest scores and passing rates in all 3 areas!
 
 ##Conclusion
