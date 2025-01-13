@@ -27,5 +27,5 @@ Public schools have more funding availble per student, but their larger sizes ne
 
 
 ## Resources
-Xpert Learning Assistant
-I worked with Morgan P in a study session- she found my error in calculating total school count and budget
+- Xpert Learning Assistant
+- I worked with Morgan P in a study session- she found my error in calculating total school count and budget
