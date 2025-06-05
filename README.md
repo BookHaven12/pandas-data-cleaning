@@ -4,6 +4,12 @@
 
 This project analyzes school data to explore metrics across two school types: **Charter** and **Public (District)** schools.  This analysis aims to identify factors that contribute to higher passing rates, and ultimately student success. 
 
+## Tools & Skills Used
+Languages: Python, Pandas
+Techniques: Data cleaning, grouping/aggregation, basic statistics
+Libraries: Pandas
+Environment: Jupyter Notebook
+
 ## Key Findings
 
 1.  **Performance by School Type:**
