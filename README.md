@@ -1,37 +1,32 @@
 # School Data Analysis
 
-## Overview
-
-This project analyzes school data to explore metrics across two school types: **Charter** and **Public (District)** schools.  This analysis aims to identify factors that contribute to higher passing rates, and ultimately student success. 
+## Overview  
+This project analyzes academic performance metrics across Charter and Public (District) schools to identify key factors contributing to student success, such as school type, size, and per-student spending.
 
 ## Tools & Skills Used
-* Languages: Python, Pandas
-* Techniques: Data cleaning, grouping/aggregation, basic statistics
-* Libraries: Pandas
-* Environment: Jupyter Notebook
+- **Languages & Libraries:** Python, Pandas
+- **Techniques:** Data cleaning, grouping & aggregation, basic statistics, comparative analysis
+- **Environment:** Jupyter Notebook
 
 ## Key Findings
 
-1.  **Performance by School Type:**
-**Charter schools** had a significantly higher overall passing rate **(90%)** compared to **Public schools (53%)**. 
+### 1. Performance by School Type  
+- Charter schools outperformed Public schools significantly, with an overall passing rate of **90% vs. 53%**.
 
-2.  **Impact of School Size:**
-Schools with fewer than 2,000 students performed better than larger schools (2,000-5,000 students).
-The small and medium sized schools had an overall passing rate of 90%, while the larger schools had only a 58% passing rate.
-The area that seemed to be affected the most by school size was the % passing math which was only 69% in the large schools, compared to 93% in the medium to small schools.
-Reading seemed to be similar in the medium and smaller schools, and only slighly lower in the larger schools.
+### 2. Impact of School Size  
+- Schools with fewer than **2,000 students** had better academic outcomes:
+  - Overall passing rate: **90%** (small/medium) vs. **58%** (large)
+  - Math passing rate: **93%** in small/medium schools vs. **69%** in large schools
+  - Reading scores were more consistent, with only a slight drop in larger schools
 
-3.  **Spending Per Student:**
-Charter schools were able to achieve better scores in both reading and math while spending less per student (<$630).
-Public schools had the lowest scores across the board despite spending the most on their students ($630-$680).
-Charter schools spending less than $585 per student had the highest scores and passing rates in all 3 areas!
+### 3. Spending Per Student  
+- Charter schools spending **less than $630 per student** achieved higher reading and math scores
+- Public schools spent more ($630–$680) but had lower overall performance
+- Schools spending **under $585 per student** had the highest passing rates in all subjects
 
-## Conclusion
-The analysis of the data clearly shows that **school size** and **school type** have the biggest impact on a student's overall success.  
-This conclusion is further supported in the fact that the **Charter schools with less than 2,000 students rank as the top 8 schools**.
-Public schools have more funding availble per student, but their larger sizes negatively impact students' overall success rate. 
+## Conclusion  
+Charter schools with smaller student populations consistently outperformed larger public schools, even with lower per-student spending. The data suggests that **school type and size** have a greater impact on student success than funding alone.
 
-
-## Resources
-- Xpert Learning Assistant
-- I worked with Morgan P in a study session- she found my error in calculating total school count and budget
+## Collaboration & Support  
+- Special thanks to **Morgan P** for helping troubleshoot a budget calculation issue during a study session  
+- Reviewed with the **Xpert Learning Assistant**
